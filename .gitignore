@@ -11,3 +11,6 @@ __pycache__/
 
 # Ignore logs
 *.log
+
+# Arquivo de variáveis de ambiente
+*.env
